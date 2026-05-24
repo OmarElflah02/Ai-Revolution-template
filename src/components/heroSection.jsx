@@ -1,7 +1,7 @@
 const images = [
-	"https://media.licdn.com/dms/image/v2/D4D03AQFxV9_MMy8dyA/profile-displayphoto-scale_200_200/B4DZ0c9QtlIIAY-/0/1774307316022?e=1776297600&v=beta&t=btqBGxz_ywqqqaRZ4zvu-sUcH0D37HrkK7W7kIm07gw",
-	"https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?w=600&auto=format&fit=crop&q=60",
-	"https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&auto=format&fit=crop&q=60",
+	"https://plus.unsplash.com/premium_photo-1664536392896-cd1743f9c02c",
+	"https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b",
+	"https://images.unsplash.com/photo-1544005313-94ddf0286df2",
 ];
 
 function HeroSection() {
